@@ -1,5 +1,5 @@
 name: MoreCommands
-main: coolboy\MoreCommands\Main
+main: coolboy\Commands\Main
 version: 1.4.3
 api: 3.9.3
 author: esh123cookie
