@@ -1,0 +1,33 @@
+name: MoreCommands
+main: coolboy\MoreCommands\Main
+version: 1.4.3
+api: 3.9.3
+author: esh123cookie
+commands:
+  heal:
+    description: Heals you
+  feed:
+    description: Feeds you
+  food:
+    description: Gives you 8 bread
+  gmc:
+    description: Set gamemode to creative mode
+  gms:
+    description: Set gamemode to survival mode
+  gma:
+    description: Set gamemode to adventure mode  
+  gmspc:
+    description: Set gamemode to spectator mode
+  day:
+    description: Set time to day
+  night:
+     description: Set time to night
+  nv:
+     description: Gives you nightvision
+     aliases: ["nightvision", "light"]
+  speed:
+     description: Gives you soeed
+     aliases: ["speed"]
+  cclear:
+     description: Clears the chat
+     aliases: [chatclear]
